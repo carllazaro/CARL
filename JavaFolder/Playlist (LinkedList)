@@ -13,7 +13,7 @@ public class Playlist {
            l1.add(song_list[i]);
         }
         LinkedList <String> l2 = new LinkedList();
-        String[] artist_list = {"Def Tones", "Third Eye Blind", "America", "Christopher Cross", "Bee Gees"};
+        String[] artist_list = {"Deftones", "Third Eye Blind", "America", "Christopher Cross", "Bee Gees"};
         for(int i=0;i<artist_list.length;i++) {
             l2.add(artist_list[i]);
         }
